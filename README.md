@@ -19,7 +19,7 @@ The dataset consists of the following columns:
 2. **Preprocess the data: Clean the text data and prepare it for analysis. This may include removing links, special characters, and normalizing the text**
 3. **Train the model: Use the provided code to train a sentiment analysis model on the dataset**
 4. **Evaluate the model: Assess the model's performance using metrics such as accuracy, precision, recall, and F1 score**
-5. 
+   
 ## Installation
 To run this project, you will need Python along some ibraries like:
 
