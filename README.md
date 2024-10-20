@@ -24,8 +24,18 @@ The dataset consists of the following columns:
 3. **Train the model: Use the provided code to train a sentiment analysis model on the dataset**
 4. **Evaluate the model: Assess the model's performance using metrics such as accuracy, precision, recall, and F1 score**
    
-## Installation
-To run this project, you will need Python along some ibraries like:
+## Requirements for Text Analysis
+
+For text analysis, you may want to install the following libraries:
+
+- `nltk`: Natural Language Toolkit for working with human language data.
+- `textblob`: Simplified text processing for common natural language tasks.
+- `scikit-learn`: For machine learning tasks related to text classification.
+- `pandas`: For data manipulation and analysis.
+- `matplotlib`: For visualizing text analysis results.
+- `seaborn`: For enhanced visualizations.
+
+You can install them using `pip`:
 
 ```bash
-pip install pandas, matplotlib, seaborn
+pip install nltk spacy gensim textblob scikit-learn pandas matplotlib seaborn
