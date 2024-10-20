@@ -23,7 +23,7 @@ The dataset consists of the following columns:
 3. **Train the model: Use the provided code to train a sentiment analysis model on the dataset**
 4. **Evaluate the model: Assess the model's performance using metrics such as accuracy, precision, recall, and F1 score**
    
-## Requirements for Text Analysis
+## Requirements 
 
 For text analysis, you may want to install the following libraries:
 
