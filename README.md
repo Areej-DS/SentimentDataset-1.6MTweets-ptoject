@@ -1,7 +1,6 @@
 # Sentiment140 Dataset Analysis
-## Dataset Download
-You can download the dataset from the following link:
 
+You can download the dataset from the following link:
 [Download Dataset](https://drive.google.com/file/d/1RHBDWdDZi9EZJkMnrVWINYx_noYFvNpT/view?usp=sharing)
 
 This project involves analyzing the Sentiment140 dataset, which contains 1.6 million tweets labeled for sentiment analysis. The goal is to build a model that predicts the sentiment of tweets based on their content.
