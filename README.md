@@ -3,7 +3,7 @@
 
 ## Data Sources
 [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140): A dataset for sentiment analysis containing 1.6 million tweets.
-ؤ
+
 
 This project involves analyzing the Sentiment140 dataset, which contains 1.6 million tweets labeled for sentiment analysis. The goal is to build a model that predicts the sentiment of tweets based on their content
 
